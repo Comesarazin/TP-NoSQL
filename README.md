@@ -31,7 +31,7 @@ Une API RESTful développée avec Express.js et MongoDB (via Mongoose) pour gér
 
 1. Clonez ce dépôt :
    ```bash
-   git clone <url-du-repo>
+   git clone https://github.com/Comesarazin/TP-NoSQL.git
    cd api-mongoose
    ```
 
@@ -144,11 +144,3 @@ api-mongoose/
 - [Mongoose](https://mongoosejs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Postman](https://www.postman.com/)
-
-## Auteurs
-
-- **Votre Nom** - Développeur principal
-
----
-
-Si vous avez des questions ou des problèmes, n'hésitez pas à ouvrir une issue dans le dépôt GitHub.
